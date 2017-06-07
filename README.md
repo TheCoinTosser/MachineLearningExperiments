@@ -7,10 +7,10 @@ Here is a list of what each of them do:
 
 1. noisy
 
-Goal: Train a model to clean-up noised images
-Category: Multilabel classification
-Summary: This trains a model using pairs of noised and clean MNIST images.
-Prediction examples:
+* Goal: Train a model to clean-up noised images
+* Category: Multilabel classification
+* Summary: This trains a model using pairs of noised and clean MNIST images.
+* Prediction examples:
 
 Inputs | Outputs
 ------------ | -------------
