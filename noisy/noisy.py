@@ -1,5 +1,5 @@
 ##############################################################
-# Multilabel classification problem - Clearing noisy images  #
+# Multioutput classification problem - Clearing noisy images #
 #                                                            #
 # This code gets the MNIST images, add some artificial noise #
 # to them, and train a model where the input are the noised  #
